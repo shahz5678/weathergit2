@@ -36,3 +36,4 @@ function updateWeather(weatherData) {
     loadingText.style.display = 'none';
     weatherBox.style.display = 'block';
 }
+//just testing out git
